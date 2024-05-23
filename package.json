@@ -27,12 +27,12 @@
     "formidable": "^3.5.1",
     "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.0",
-    "nano": "^10.0.0", // asumiendo que hay una versión que no usa request
+    "nano": "^3.3.4",
     "nanoid": "^3.3.4",
     "pg": "^8.11.5",
     "pg-hstore": "^2.3.4",
     "reflect-metadata": "^0.2.2",
-    "sharp": "^0.32.6",
+    "sharp": "^0.33.3",
     "typeorm": "^0.3.20",
     "typeorm-naming-strategies": "^4.1.0"
   },
@@ -48,5 +48,3 @@
     "nodemon": "^3.1.0"
   }
 }
-
-
